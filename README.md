@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bryan Navarro</h1>
-<h3 align="center">Software Developer | Future Java Backend Engineer 🚀</h3>
+<h3 align="center">Software Developer  🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bruyi22&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />

@@ -1,101 +1,98 @@
 <h1 align="center">Hi 👋, I'm Bryan Navarro</h1>
-<h3 align="center">Software Developer  🚀</h3>
+<h3 align="center">Full Stack Developer · React · Python · Flask · SQL · Deployed to production</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bruyi22&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Tampa%2C%20FL-📍-blue?style=flat" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Bilingual-EN%20%2F%20ES-orange?style=flat" />
 </p>
 
 ---
 
-## 💻 About Me
+## 🙋 About Me
 
-I am a Full Stack Developer based in Tampa, Florida, with a strong background in problem-solving from my experience as a maintenance technician. I specialize in building scalable web applications using modern technologies and I am currently transitioning into backend development with Java and Spring Boot.
-
-I enjoy creating impactful projects, solving real-world problems, and continuously learning new technologies to grow as a software engineer.
+- 🔧➡️💻 Former maintenance technician turned Full Stack Developer — same problem-solving mindset, new tools
+- 🚀 Built and deployed **[Helping Souls](https://github.com/bruyi22/helping-souls)** — a full-stack volunteer platform live on Render
+- 🌱 Currently expanding into **Java & Spring Boot** for backend development
+- 🎯 Goal: Land a junior developer role and build impactful, production-ready software
+- 🌎 Bilingual: Spanish (native) · English (C1)
+- 📍 Based in Tampa, FL
 
 ---
 
-## 🔭 Current Project
+## 🚀 Featured Project
 
-**Helping Souls – Volunteer & Donation Platform**  
-A full-stack application designed to connect volunteers with events and allow donations through Stripe.
+### 🤝 [Helping Souls](https://github.com/bruyi22/helping-souls) — Live on Render
 
-🔗 https://github.com/bruyi22/helping-souls-final-project-pt-58  
+> A full-stack volunteer management platform connecting organizers with volunteers.
+
+**Tech:** React · Flask · Python · SQLAlchemy · JWT · Render
+
+- 🔐 JWT-secured authentication with **3 user roles** (volunteer, organizer, admin)
+- 🔗 **10+ REST API endpoints** covering registration, campaigns, and application workflows
+- 🗄 Relational database with **5+ SQLAlchemy models** and full CRUD operations
+- ⚛️ Responsive React frontend with component-based architecture and client-side state management
+- ☁️ **Deployed live on Render** — frontend + backend + database
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+
+**Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+
+**Database & Tools**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
 
 ---
 
 ## 🌱 Currently Learning
 
-- Java Programming  
-- Spring Boot (Backend Development)  
-- REST API Design & Best Practices  
-- Database Design (PostgreSQL)  
-- Backend Architecture & System Design  
-
----
-
-## 👯 Open to Collaborate On
-
-- Full Stack Projects (React + APIs)  
-- Backend Projects (Java / Spring Boot)  
-- Real-world applications that solve meaningful problems  
-
----
-
-## 🤝 Looking for Help With
-
-- Advanced Spring Boot concepts  
-- Scalable backend architecture  
-- Best practices for production-ready applications  
+| Technology | Focus | Status |
+|---|---|---|
+| ☕ Java | Core OOP & language fundamentals | 🟢 In progress |
+| 🍃 Spring Boot | REST APIs & backend architecture | 🟢 In progress |
+| 🐘 PostgreSQL | Advanced queries & DB design | 🔵 Next up |
+| 🏗️ System Design | Scalable backend patterns | 🔵 Next up |
 
 ---
 
 ## 💬 Ask Me About
 
-- React & Frontend Development  
-- Flask APIs & Backend Logic  
-- JWT Authentication  
-- Building Full Stack Projects  
+- ⚛️ React & Frontend Development
+- 🐍 Python, Flask & REST API design
+- 🔐 JWT Authentication & role-based access
+- 🗄 SQLAlchemy & relational data modeling
+- 🔧 Debugging — I've been doing it since before I wrote code
 
 ---
-
-## 🚀 Tech Stack
-
-**Frontend:**  
-React, JavaScript, HTML5, CSS3, Bootstrap  
-
-**Backend:**  
-Flask, Python, REST APIs  
-(Spring Boot – currently learning)  
-
-**Database:**  
-PostgreSQL, SQLAlchemy  
-
-**Tools & Technologies:**  
-Git, GitHub, APIs, JWT, Cloudinary, Stripe  
-
----
-
-## 📫 Contact Me
-
-📧 Email: diazbnavarro@gmail.com  
-📍 Location: Tampa, Florida, USA  
-
----
-
-## 👨‍💻 Portfolio & Projects
-
-🔗 https://github.com/bruyi22  
-
----
-
 
 ## ⚡ Fun Fact
 
-I went from fixing machines to building software — and I apply the same problem-solving mindset to debugging code 🔧➡️💻
+I went from diagnosing dialysis machines and precision manufacturing equipment to debugging React components and Flask APIs — **same methodology, different system.** Turns out "isolate the variable, reproduce the failure, trace to root cause" works just as well in code as it does in hardware. 🔧➡️💻
 
 ---
 
-## 🎯 Current Goal
+## 📫 Let's Connect
 
-Become a Backend Engineer specializing in Java and Spring Boot, building scalable and production-ready systems.
+- 📧 Email: diazbnavarro@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/bryan-navarro](https://linkedin.com/in/bryan-navarro)
+- 🐙 GitHub: [github.com/bruyi22](https://github.com/bruyi22)
+- 📍 Tampa, Florida, USA

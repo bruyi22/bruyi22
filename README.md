@@ -26,7 +26,7 @@
 
 ## 🚀 Featured Project
 
-### 🤝 [Helping Souls](https://github.com/bruyi22/helping-souls) — Live on Render
+### 🤝 [Helping Souls](https://github.com/bruyi22/helping-souls) — [🔴 Live Demo](https://helping-souls.onrender.com)
 
 > A full-stack volunteer management platform connecting organizers with volunteers.
 
